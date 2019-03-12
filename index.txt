@@ -60,12 +60,13 @@ font-family: 'Charmonman', cursive;
 <p><a href="https://www.xn--72c5aba9c2a3b8a2m8ae.com/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7/"><em>Link</em></a></p>
 </ul>
 
+
 <p><b>การเดินทาง/Map</b></p>
 <ul>
 <li>จากรุงเทพฯ ถึงตัวเมืองสระแก้ว รวมระยะทางประมาณ 256 กิโลเมตร คุณสามารถใช้บริการรถโดยสารจากสถานีขนส่งหมอชิต จากนั้นนั่งรถจากอำเภอเมืองไปตามถนนเร่งรัดพัฒนาชนบท (ร.พ.ช.) สายสระแก้ว-บ้านคลองน้ำเขียว ตามทางหลวงหมายเลข 3462 ระยะทาง 27 กิโลเมตร ถึงที่ทำการอุทยานฯ หากขับรถไปเอง สามารถใช้ทางหลวงหมายเลข 305 จนถึงตัวเมืองนครนายก จากนั้นต่อด้วยทางหลวงหมายเลข 33 ตรงไปจนถึงตัวเมืองสระแก้ว</li>
 <p><a href="https://www.google.com/maps/search/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B2/@13.9925113,102.203,1162m/data=!3m1!1e3!11m1!5shttps:%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fconversion%2F%3Fai%3DCLRKey06HXKX3O9qDwgP3oKewDvbEyMtVk5az7OYIwI23ARABIIvj0CNg_YWAgJQgoAGDifqNA8gBCakCAZbVjZz0YD6oAwHIA8MEqgSQA0_Q0HooD6ULienUiLqPNfFwzNNtYmAdvSfJARXgDocCe0a-QyQiNp7UIFyvf3RMy1Axfpf0Tw2udEaWN_0cqkRsMfOIu4JNUHSdhN0KmwCCIivvmaXMwmPJLX9__vxD5McY9lXPKpzRtiNkE6iS0In8UVE-_VeYkdc-xKy1P_MpfrBSg7k9KnJE7OoL1YucKvHiHa_qxCRqaF_jZ2ERXGxCQ94KyBpvynfGJg5DQ_vXrjpDun-tLhNcmlHlHhUKr6Mn6RiOlbZgSovEyPcbF0qfBhjcAYDElRid88cKCxZIDUjHDR3NS8Rjp3i8lTivCBylz9sXC5AJFXwHCxLIpt9u4Dlt_H_uFiMTggJYFG-PntMCLq9Jlq3Y2WYC2bMcRTDsmy6KX8rQ3fQu5zclQNwTsWVRt02Up1cjNpYgRbvZLHYbDfp6l0c5SVQyE9CMNbLfbQoDa0S44DHqYOwKdjrqBRlJLWszf0TSJIcoUKSrugbcuOMr7XuXNX6K9mXGD7bxwLqZ9rf84s___diH-rmgBi6AB-X2hXKoB47OG6gH1ckbqAeoBqgH2csbqAfPzBuoB6a-G9gHANIIBwiAYRABGAKxCS9pYOicvXHZgAoB2BMK%26sigh%3Dj7k7r5FdtqA%26label%3D_AITNAME_%26value%3D_AITVALUE_"><em>Link Map</em></a></p>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30923.249536986114!2d100.5679287!3d14.345889000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311b826179484cb7%3A0xaa8ede77fad09198!2z4LiZ4LmJ4Liz4LiV4LiB4Lib4Liy4LiH4Liq4Li14LiU4Liy!5e0!3m2!1sth!2sth!4v1552375443087" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<center>&nbsp;<img src="map.jpg"width="400" height="300" alt="EARTHSHECK"></center>
+<hr width=90% size=3 color=770088>
 </ul>
 
 
