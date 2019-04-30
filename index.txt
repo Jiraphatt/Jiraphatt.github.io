@@ -1,0 +1,37 @@
+﻿<html>
+    <head>
+       <title> My Website </title>
+       <link rel="stylesheet" type="text/css"  href="style.css"/>
+    </head>
+    <body>
+      <div id="container">
+         <div id="header">
+              <h1>PROFILE</h1>
+           </div>
+           <div id="content">
+             <div id="nav">
+                 <h3 style="color:#FF33CC;">ช่องทางการติดต่อ"</h3>
+                 <ul>
+                   <li><a href="https://www.facebook.com/earthinnocent">facebook</a></li>
+                   <li><a href="https://www.instagram.com/earth_innocent">instagram</a></li>
+                   <li><a href="https://twitter.com/eskk_">twitter<a/></li>
+                   <li><a href="">@ผลงาน<a/></li>
+                 </ul>
+           </div>
+
+             <div id="main">
+               <h2>ประวัติส่วนตัว</h2>
+               <p>ชื่อ นายจิรพัฒน์  นามสกุล เย็นชื้น  ชื่อเล่น เอิร์ธ 
+                  วันเกิด 30/06/1998  ที่อยู่ 79/7 หมู่15 ต.วังท่าช้าง  อ.กบินทร์บุรี  จ.ปราจีนบุรี</p>
+               <p>ติดต่อ Tel.0637954190 </p>
+                <IMG SRC = "G2WPP.jpg" width="200" height="300">,<IMG SRC = "G2WP.jpg" align="center" width="300" height="300">
+               <p><i>สามารถติดต่อลายละเอียดส่วนตัวใด้ที่ @fb/earth_innocent</i></p>
+             </div>
+           </div>
+           <div id="footer">
+             PRESENT BY &copy; นายจิรพัฒน์ เญ้นชื้น  16015146.
+           </div>
+        </div>
+
+    </body>
+</html>
