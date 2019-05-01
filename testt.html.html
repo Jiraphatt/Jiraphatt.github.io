@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+   <head>
+<a href="#testt.html">testt</a>
+      <title>แบบทดสอบ CSS</title>
+
+      <link rel="stylesheet" type="text/css" href="./css/style.css" />
+
+
+      <script src="http://www.fastlearning.in/controller/js/jquery-1.9.1.min.js"></script>
+
+      <script type="text/javascript">
+	     $(document).ready(function() {
+         $('label').click(function() {
+        $('label').removeClass('worngans');
+        $(this).addClass('worngans');
+        });
+        });
+	    </script>
+
+   </head>
+   <body >
+<h1>แบบทดสอบ CSS</h1>
+<div class="scp-quizzes-main">
+
+<div class="scp-quizzes-data">
+  <h3>1. CSS ย่อมาจากอะไร?</h3>
+  <br/>
+  <input type="radio" name="question1">
+  <label>ก. Core System Software</label><br/>
+  <input type="radio"  name="question1">
+  <label>ข. Colorful Style Symbols</label><br/>
+  <input type="radio" name="question1" id="css">
+  <label for="css">ค. Cascading Style Sheets</label> <br/>
+  <input type="radio" name="question1">
+  <label>ง. Computing Support Services</label>
+</div>
+
+<div class="scp-quizzes-data">
+   <h3>2. จากรหัส CSS ต่อไปนี้ สีของข้อความคือสีใด?</h3>
+    <pre>
+      body {
+        background-color: lightblue;
+      }
+
+      h1 {
+        color: white;
+        text-align: center;
+      }
+
+      p {
+        font-family: verdana;
+        font-size: 20px;
+      }
+    </pre>
+  <br/>
+  <input type="radio" name="question2" id="textcolor">
+  <label for="textcolor">ก. ดำ</label><br/>
+  <input type="radio"  name="question2">
+  <label>ข. ขาว</label><br/>
+  <input type="radio" name="question2">
+  <label>ค. ฟ้าอ่อน</label> <br/>
+  <input type="radio" name="question2">
+  <label>ง. ไม่มีข้อถูก</label>
+</div>
+
+<div class="scp-quizzes-data">
+  <h3>3. คุณคิดว่าจะเขียนต่อได้ไหม?</h3>
+  <br/>
+  <input type="radio" name="question3" id="ican">
+  <label for="ican">ก. ได้</label><br/>
+  <input type="radio" name="question3">
+  <label>ข. ไม่ได้</label> <br/>
+</div>
+
+</div>
+
+  </body>
+</html>
